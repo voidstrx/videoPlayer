@@ -1,1 +1,1 @@
-Remote control video on tv
+Remote control video on tv via browser
